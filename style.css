@@ -369,3 +369,58 @@ body {
     padding-top: 15px;
 }
 
+.banner6{
+    height: 420px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 38px;
+    margin-bottom: 32px;
+}
+
+.ban6label{
+    color: #1e3932;
+    background-color: #e1fccd;
+    text-align: center;
+}
+
+.ban6text{
+    height: 356px;
+    width: 624px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+#ban6button{
+    color: #1e3932; 
+    background-color: #e1fccd;
+    border-radius: 50px;
+    height: 40px;
+    border: 1px solid #1e3932;
+    width: 150px;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+
+#ban6heading{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-top: 50px;
+}
+
+#ban6content{
+    font-size: 17px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding-top: 30px;
+}
+
+.ban6btn{
+ padding-top: 30px;   
+}
+
