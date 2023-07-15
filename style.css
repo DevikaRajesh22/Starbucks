@@ -424,3 +424,22 @@ body {
  padding-top: 30px;   
 }
 
+.terms{
+    text-align: center;
+    width: 650px;
+    margin-left: 445px;
+
+}
+
+.termsp{
+    font-size: 13px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    padding-bottom: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+
+
+
