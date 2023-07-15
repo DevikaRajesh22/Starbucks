@@ -270,6 +270,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-left: 38px;
+    margin-bottom: 32px;
 }
 
 .ban4text{
@@ -300,10 +301,6 @@ body {
     letter-spacing: 0.5px;
 }
 
-.ban4btn{
-
-}
-
 #banner4heading{
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 50px;
@@ -318,3 +315,57 @@ body {
     color: black;
     letter-spacing: 1px;
 }
+
+.banner5{
+    height: 280px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 38px;
+    margin-bottom: 32px;
+}
+
+.ban5label{
+    background-color: #1e3932;
+    color: white;
+    text-align: center;
+}
+
+.ban5text{
+    height: 216px;
+    width: 624px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+#ban5button{
+    color: white; 
+    background-color: #1e3932;
+    border-radius: 50px;
+    height: 40px;
+    border: 1px solid white;
+    width: 150px;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+
+#ban5heading{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#ban5content{
+    font-size: 17px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.ban5btn{
+    padding-top: 15px;
+}
+
