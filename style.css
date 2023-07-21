@@ -526,3 +526,7 @@ body {
     padding-right: 20px;
     cursor: pointer;
 }
+
+.headertext:hover{
+    color: #1e3932;
+}
